@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://buzzerocursos.com.br/sitemap.xml
