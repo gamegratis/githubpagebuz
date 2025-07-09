@@ -6,28 +6,4 @@
     <priority>0.5</priority>
     <changefreq>always</changefreq>
   </url>
-  <url>
-    <loc>https://buzzerocursos.com.br/administracao.html</loc>
-    <lastmod>2025-07-08</lastmod>
-    <priority>0.5</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://buzzerocursos.com.br/central-de-atendimento.html</loc>
-    <lastmod>2025-07-08</lastmod>
-    <priority>0.5</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://buzzerocursos.com.br/informatica-e-internet.html</loc>
-    <lastmod>2025-07-08</lastmod>
-    <priority>0.5</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://buzzerocursos.com.br/mais-vendidos.html</loc>
-    <lastmod>2025-07-08</lastmod>
-    <priority>0.5</priority>
-    <changefreq>monthly</changefreq>
-  </url>
 </urlset>
